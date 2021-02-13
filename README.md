@@ -1,8 +1,7 @@
-- 👋 @DianaJmz, estudiante con una meta: no solo ser un mar de conocimientos con un centimetro de profundidad. 
-- 👀 Me interesan temas como IoT, organización, visión artificial y electrónica.
-- 🌱 Sigo aprendiendo Python, C y a calendarizar proyectos.
-- 💞️ ¿Colaborar? Aun sigo trabajando en mis capacidades pero sería genial
-- 📫 hdianajimenez2@gmail.com 
+- 👋 @DianaJmz, mexican student with a goal: not just to be a sea of knowledge one centimeter deep. 
+- 👀 I'm interested in topics like IoT, organization, computer vision and electronics.
+- 🌱 I'm still learning Python, C and how to schedule projects.
+- 💞️ Collaborate? I'm still working on my skills but it would be great
 
 <!---
 DianaJmz/DianaJmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
