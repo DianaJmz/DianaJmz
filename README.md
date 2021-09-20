@@ -1,4 +1,4 @@
-- 👋 @DianaJmz, mexican student with a goal: not just to be a sea of knowledge one centimeter deep. 
+- 👋 @DianaJmz, mexican student with a bunch of goals to get done. 
 - 👀 I'm interested in topics like IoT, organization, computer vision and electronics.
 - 🌱 I'm still learning Python, C and how to schedule projects.
 - 💞️ Collaborate? I'm still working on my skills but it would be great
